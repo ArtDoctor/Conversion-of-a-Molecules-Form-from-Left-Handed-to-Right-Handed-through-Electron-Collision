@@ -38,5 +38,5 @@ Using this venv all notebooks should run withour errors.
 Selected steps are currently in progress.
 
 ## Main references:  
-<a href="https://arxiv.org/abs/cond-mat/0411064"><strong>Charge transport through a flexible molecular junction</strong></a>
-<a href="https://arxiv.org/abs/cond-mat/0312080">Theory of Vibrationally Inelastic Electron Transport through Molecular Bridges</strong></a>
+1. <a href="https://arxiv.org/abs/cond-mat/0411064"><strong>Charge transport through a flexible molecular junction</strong></a>  
+2. <a href="https://arxiv.org/abs/cond-mat/0312080">Theory of Vibrationally Inelastic Electron Transport through Molecular Bridges</strong></a>
