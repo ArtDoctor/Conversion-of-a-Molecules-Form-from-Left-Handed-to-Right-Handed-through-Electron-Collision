@@ -34,6 +34,7 @@ Using this venv all notebooks should run withour errors.
 - [ ] ***Reproduce main reference paper till the checkpoint - reproduce graphs (Energy dependence of the averaged transmission probability (see text) for three coupling strengths α and temperature T = 0.)***
 - [ ] Try trapezoidal integration instead of standard numpy integration
 - [ ] Improve FDM accuracy by using corner matrix elements  
+
 Selected steps are currently in progress.
 
 ## Main references:  
