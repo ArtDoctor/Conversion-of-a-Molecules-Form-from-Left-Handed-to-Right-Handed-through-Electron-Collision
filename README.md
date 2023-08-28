@@ -1,7 +1,7 @@
 # Conversion of a Molecules Form from Left Handed to Right Handed Form through Electron Collision
 The "Conversion of Molecules from Left Handed to Right Handed Form Through Electron Collision" project focuses on studying the impact of electron collision on the orientation of a junction of two Biphenyl molecules.
 
-<img src="resources/pic1.jpg" alt="Biphenyl moleciles" width="800">
+<img src="resources/pic1.png" alt="Biphenyl moleciles" width="800">
 
 ## Installation  
 1. Clone git repo
